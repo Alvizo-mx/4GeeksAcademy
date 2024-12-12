@@ -1,0 +1,73 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Daniel
+  last_name: Alvizo
+  motto: Reject authority and tradition in the name of progress
+  focus: Always seeking.
+  summary: >
+    An individual who seeks knowldege and improve in many aspects of my
+    live,  eager to explore and try new things, commited to learn and succeed,
+    big believer of loyalty and  commitment. With an ability to adapt and
+    thrive.
+  email: alvizodaniel@outlook.com
+  phone: +52 5576964633
+  linkedin: Daniel Alvizo
+  github: Alvizo-mx
+  twitter: Alvizo-mx
+  stack-overflow: null
+  languages:
+    - idiom: English
+      level: Professional
+    - idiom: Spanish
+      level: Native
+    - idiom: French
+      level: basic
+  interests:
+    - item: Football Soccer
+    - item: Reading
+    - item: Chess
+education:
+  - degree: Finance
+    university: Universidad Kuepa
+    time: 2021 - 2023
+    details: |
+      Online university that make me help how to make time organization,
+      Work remotely and learn deeply finance, such as many examples that
+      now I can use in my daily life.
+  - degree: Economics
+    university: Universidad Nacional Autónoma de México
+    time: 2023 - Present
+    details: |
+      Currently studying in a Open College in the most prestigous university
+      of México, with great pursue over learning about how the world works.
+experiences:
+  - role: Private tutor
+    time: 2021 - Present
+    details: |
+      Private tutor for highschool level mathematics and basic chess,
+      something that i´ve learned is to accurately show and explain 
+      a certain subject
+projects:
+  intro: >
+    A personal project that in the further future become something big for my
+    community  A start up foundation of taking care of dogs ans care about the
+    environment 
+  assignments:
+    - title: Proyecto Vidaverde
+      tagline: Un mundo para todos
+skills:
+  toolset:
+    - name: Python & Django
+      level: 60%  0%
+    - name: JavaScript & jQuery
+      level: 2%
+    - name: Angular
+      level: 0%
+    - name: HTML5 & CSS
+      level: 30%
+    - name: Ruby on Rails
+      level: 0%
+    - name: Sketch & Photoshop
+      level: 0%
